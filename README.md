@@ -7,5 +7,6 @@
 - ⚡ Fun fact: currently in parental leave
 
 ### Work in Progress
-  Home automation
+Currently i worked on my home automation.
 
+<img align="left" alt="JAnRoepkes's Github Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app//api?username=roepke-jan&show_icons=true&hide_border=true&theme=dark" />
