@@ -6,6 +6,18 @@
 - 📫 How to reach me: Mail
 - ⚡ Fun fact: currently in parental leave
 
+### Techs and Toolbar
+- Python
+- Ansible
+- Molecule
+- Splunk
+- MariaDB
+- PostgreSQL
+  
+- Homeassistant
+- ESPHome
+- VSCode
+
 ### Work in Progress
 Currently i worked on my home automation.
 
