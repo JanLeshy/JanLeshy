@@ -4,7 +4,6 @@
 - 🌱 I’m always learning python
 - 💬 Ask me about automations with ansible, homeassistent
 - 📫 How to reach me: Mail
-- ⚡ Fun fact: currently in parental leave
 
 ### Techs and Toolbar
 - Python
